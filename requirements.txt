@@ -1,0 +1,7 @@
+streamlit
+bokeh==2.4.1
+extra_streamlit_components
+cryptography
+pymongo
+flask
+dnspython
